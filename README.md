@@ -1,6 +1,6 @@
 ## my-doublecmd-settings
 
-**Felhasználói beállításaim a Double Commanderhez / My user settings for Double Commander**
+**Felhasználói beállításaim a Double Commanderhez**
 - Telepítés előtt a script:
      - ellenőrzi, hogy X11 vagy Wayland a session
      - ellenőrzi, hogy GTK vagy QT a desktop környezet, és ennek megfelelő verziójú Double Commandert ajánl fel telepítésre
