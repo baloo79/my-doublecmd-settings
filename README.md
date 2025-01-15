@@ -1,4 +1,4 @@
-## my-doublecmd-settings
+## My DoubleCmd Settings
 
 **Felhasználói beállításaim a Double Commanderhez**
 
