@@ -16,4 +16,12 @@ A script Arch Linuxhoz készült, és a yay AUR helpert használja.
      - Linux Libertine-G
      - Play
 
+Képernyőképek / Screenshots:
+
+
+![Alt text](doublecmd-screenshot1.png?raw=true "Main")
+
+![Alt text](doublecmd-screenshot2.png?raw=true "Settings - Fonts")
+
+![Alt text](doublecmd-screenshot3.png?raw=true "Colors - File types")
 
